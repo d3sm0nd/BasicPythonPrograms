@@ -15,14 +15,16 @@ To run these programs, make sure you have:
 ## **🚀 Getting Started**  
 
 1. Clone this repository:  
+   ```bash  
+   git clone https://github.com/YourUsername/Basic-Python-Programs.git  
+   ```  
 
-   git clone https://github.com/d3m0nd/BasicPythonPrograms.git  
-
-3. Navigate to the folder:
-4. 
+2. Navigate to the folder:  
+   ```bash  
    cd Basic-Python-Programs  
+   ```  
 
-5. Run any program:  
+3. Run any program:  
    ```bash  
    python program_name.py  
    ```  
