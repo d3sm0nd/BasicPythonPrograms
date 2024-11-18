@@ -16,7 +16,7 @@ To run these programs, make sure you have:
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/YourUsername/Basic-Python-Programs.git  
+   git clone https://github.com/d3sm0nd/BasicPythonPrograms.git  
    ```  
 
 2. Navigate to the folder:  
