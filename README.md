@@ -61,7 +61,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## **🌟 Acknowledgments**  
 
 Thanks to all the Python enthusiasts who contribute to this project. Let’s learn and grow together!  
-
----
-
-Let me know if you'd like this customized further!
