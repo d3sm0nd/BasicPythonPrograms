@@ -21,12 +21,12 @@ To run these programs, make sure you have:
 
 2. Navigate to the folder:  
    ```bash  
-   cd Basic-Python-Programs  
+   cd BasicPythonPrograms  
    ```  
 
 3. Run any program:  
    ```bash  
-   python program_name.py  
+   python3 program_name.py  
    ```  
 
 ---
