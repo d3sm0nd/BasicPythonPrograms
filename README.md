@@ -1,7 +1,3 @@
-Here's a sample README file for your **Number Guessing Game** project:  
-
----
-
 # 🎮 Number Guessing Game  
 
 Welcome to the **Number Guessing Game**, a simple yet fun game where you try to guess the number chosen by the computer within a specified range and limited attempts. Test your guessing skills and see if you can beat the game!  
